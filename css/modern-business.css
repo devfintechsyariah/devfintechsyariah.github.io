@@ -1,0 +1,232 @@
+/*!
+ * Start Bootstrap - Modern Business (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+/* Global Styles */
+
+html,
+body {
+    height: 100%;
+    background-color: #F3F5F9;
+    color: #3A4551;
+}
+
+body {
+    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+/* Navbar */
+.navbar-default {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: #fff;
+}
+
+.navbar-brand {
+    height: 80px;
+}
+
+.navbar-nav>li>a {
+    padding-top: 30px;
+    margin: 0 20px;
+}
+
+.navbar-toggle {
+    margin-top: 20px;
+}
+#subtittle p,
+#subtittle2 p,
+#subtittle4 p
+{
+    text-align: center;
+    font-size: 16px;
+    line-height: 2;
+    margin: 50px auto;
+}
+#subtittle {
+    padding-top: 50px;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 100px;
+    background-color: #fff;
+}
+#subtittle2 {
+    background-color: #fff;
+    padding-top: 50px;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#subtittle3 {
+    background-color: #fff;
+    padding-top:50px;
+    padding-bottom: 100px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#subtittle3 p {
+    font-size: 16px;
+    line-height: 2;
+    margin: 50px auto;
+}
+#subtittle4 {
+    background-color: #F3F5F9;
+    padding-top:50px;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#subtittle4 p {
+    text-align: justify;
+    font-size: 16px;
+    line-height: 2;
+    margin: 50px auto;
+}
+#subtittle5 {
+    background-color: #F3F5F9;
+    padding-top:50px;
+    padding-bottom: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+#subtittle5 p {
+    font-size: 16px;
+    line-height: 2;
+    margin: 50px auto;
+}
+/* Jumbotron */
+.jumbotron {
+    background-color: #fff;
+}
+#jumbotron1 {
+    padding-top: 220px;
+    padding-bottom: 200px;
+    margin-bottom: 0;
+    background-color: #fff;
+    background-image: url("../img/jumbotron1.jpg");
+    background-size: cover;
+    color: #fff;
+}
+#jumbotron2 .col-md-6:last-child {
+    padding-left: 100px;
+    background-color: #fff;
+}
+#jumboabout1 {
+    padding-top: 220px;
+    padding-bottom: 200px;
+    margin-bottom: 0;
+    background-color: #fff;
+    background-image: url("../img/jumboabout1.jpg");
+    background-size: cover;
+    color: #fff;
+}
+.panel-default>.panel-heading {
+    background-color: #fff;
+}
+#subtittle3 ul {
+  text-align: justify;
+  font-size: 16px;
+  line-height: 2;
+}
+
+/*Hover*/
+footer a:link {
+    color: #fff;
+}
+footer a:visited {
+    color: #fff;
+}
+footer p:first-child {
+  margin-right: 10px;
+}
+.fa-facebook-square {
+    margin-right: 20px;
+}
+.fa-facebook-square:hover {
+    color: #2969B0;
+}
+.fa-instagram {
+    margin-right: 20px;
+}
+.fa-instagram:hover {
+    color: #553982;
+}
+.fa-youtube {
+    margin-right: 20px;
+}
+.fa-youtube:hover {
+    color: #B8312F;
+}
+/*Button Custom*/
+.btn {
+    padding: 10px 30px;
+    font-size: 14px;
+    margin-right: 0px;
+}
+.btn-primary {
+    background-color: #1BB6AD;
+    border-color: #1BB6AD;
+}
+.btn-primary:hover {
+    background-color: #158C83;
+    border-color: #1BB6AD;
+}
+
+.btn-primary:active {
+    background-color: #158C83;
+    border-color: #1BB6AD;
+}
+.btn-primary:visited {
+    background-color: #1BB6AD;
+    border-color: #1BB6AD;
+}
+.btn-default {
+    background-color: transparent;
+    color: #fff;
+}
+/* Page Content*/
+
+#status {
+    padding: 20px 150px;
+}
+
+#post {
+    margin: 80px auto;
+}
+/* 404 Page Styles */
+
+.error-404 {
+    font-size: 100px;
+}
+
+/* Footer Styles */
+
+footer {
+    margin: 0;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    background-color: #095E94;
+    color: #fff;
+}
+
+footer hr{
+    border: 1px solid #0B699E;
+}
+
+/* Responsive Styles */
+
+@media(max-width:991px) {
+    .customer-img,
+    .img-related {
+        margin-bottom: 30px;
+    }
+}
+
+@media(max-width:767px) {
+    .img-portfolio {
+        margin-bottom: 15px;
+    }
+
+}
