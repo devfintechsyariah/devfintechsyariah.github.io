@@ -17,7 +17,7 @@
                 <div class="carousel-caption-custom">
                     <p>Kolaborasi startup, institusi, akademisi,
                     komunitas, dan pakar praktisi medorong
-                    Teknologi Keuangan Syariah</p>
+                    Teknologi Keuangan Syariah Indonesia</p>
                 </div>
               </div>
               <div class="item">
