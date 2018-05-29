@@ -49,16 +49,16 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="about.php">About</a>
+                        <a href="about">About</a>
                     </li>
                     <li>
-                        <a href="news.php">News & Event</a>
+                        <a href="news">News & Event</a>
                     </li>
                     <li>
-                        <a href="gallery.php">Gallery</a>
+                        <a href="gallery">Gallery</a>
                     </li>
                      <li>
-                        <a href="membership.php">Membership</a>
+                        <a href="membership">Membership</a>
                     </li>
                 </ul>
             </div>
