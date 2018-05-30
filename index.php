@@ -17,7 +17,7 @@
                 <div class="carousel-caption-custom">
                     <p>Kolaborasi startup, institusi, akademisi,
                     komunitas, dan pakar praktisi medorong
-                    Teknologi Keuangan Syariah Indonesia</p>
+                    Teknologi Keuangan Syariah</p>
                 </div>
               </div>
               <div class="item">
@@ -64,9 +64,9 @@
             <p><img src="img/logofintechbig.png" alt="" style="text-align: justify; width: 70%; height: 70%;"></p>
         </div>
     </div>
-    <div class="container-fluid" id="subtittle2">
-        <div class="col-md-6 text-center">
-            <p><img src="img/team.jpg" alt="" style="text-align: justify; width: 70%; height: 70%;"></p>
+    <!-- <div class="container-fluid" id="subtittle2">
+        <div class="col-md-6 text-center" style="margin: 0px 0 60px 0">
+            <img src="img/photo/afsimember1.jpeg" alt="" style="text-align: justify; width: 70%; height: 70%;">
         </div>
         <div class="col-md-6 text-center">
             <blockquote>
@@ -74,7 +74,7 @@
                     <footer style="background-color: transparent;padding-top: 20px">Ronald Yusuf Wijaya <cite title="Source Title">(Chairman)</cite></footer>
             </blockquote>
         </div>
-    </div>
+    </div> -->
     <!-- Count   -->
     <div class="container">
       <div class="col-md-8 col-md-offset-2 text-center">
@@ -168,7 +168,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="col-xs-6 col-md-3">
-                <a href="https://www.danakoo.id/menu/page/syariah" class="thumbnail">
+                <a href="https://www.danakoo.id/menu/page/syariah" target="_blank" class="thumbnail">
                   <img src="img/logo/danakoosyariah.jpg" alt="">
                 </a>
                 </div>
@@ -192,7 +192,7 @@
           <div class="row">
             <div class="col-md-12">
                 <div class="col-xs-6 col-md-3">
-                <a href="https://www.oorth.me/" class="thumbnail">
+                <a href="https://www.oorth.me/" target="_blank" class="thumbnail">
                   <img src="img/logo/oorth.png" alt="">
                 </a>
                 </div>
@@ -211,6 +211,30 @@
                   <img src="img/logo/goolive.jpg" alt="">
                 </a>
                 </div>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-md-12">
+                <div class="col-xs-6 col-md-3">
+                <a href="https://invesproperti.id/" target="_blank" class="thumbnail">
+                  <img src="img/logo/invesproperti.jpg" alt="">
+                </a>
+                </div>
+                <div class="col-xs-6 col-md-3">
+                <a href="https://www.angsur.id/" target="_blank" class="thumbnail">
+                  <img src="img/logo/angsur.jpg" alt="">
+                </a>
+                </div>
+                <div class="col-xs-6 col-md-3">
+                <a href="http://www.shariamarket.com" target="_blank" class="thumbnail">
+                  <img src="img/logo/shariamarket.jpg" alt="">
+                </a>
+                </div>
+                <!-- <div class="col-xs-6 col-md-3">
+                <a href="http://goolive.id/" target="_blank" class="thumbnail">
+                  <img src="img/logo/goolive.jpg" alt="">
+                </a>
+                </div> -->
             </div>
           </div>
     </div>

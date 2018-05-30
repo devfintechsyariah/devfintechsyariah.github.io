@@ -3,12 +3,10 @@
     <!-- Heder Jumbotron -->
     <header>
         <div class="jumbotron" id="jumboabout1">
-        <!-- <div class="container">
-            <h2>Kolaborasi Ekosistem Teknologi Keuangan</h2>
-            <p>dari perusahaan Indonesia untuk masyarakat Indonesia</p>
-            <br><br>
-            <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>  <a class="btn btn-default btn-lg" href="#" role="button">Apply for Membership</a></p>
-        </div> -->
+            <div class="container text-center">
+                <h2>News & Events</h2>
+                <hr width="10%" style="border: 2px solid rgb(255, 255, 255)">
+            </div>
         </div>
     </header>
     <!-- Page Content -->

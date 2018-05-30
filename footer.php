@@ -22,7 +22,7 @@
                         <div class="row">
                             <p><a href="about" target="blank">About</a></p>
                             <p><a href="news" target="blank">News & Events</a></p>
-                            <p><a href="gallery" target="blank">gallery</a></p>
+                            <p><a href="gallery" target="blank">Gallery</a></p>
                             <p><a href="membership" target="blank">Membership</a></p>
                         </div>
                     </div>

@@ -1,22 +1,19 @@
 <<?php require('header.php'); ?>
-
-    <!-- Heder Jumbotron -->
-    <header>
+<!-- Heder Jumbotron -->
+<header>
         <div class="jumbotron" id="jumboabout1">
-        <!-- <div class="container">
-            <h3>Kolaborasi Ekosistem Teknologi Keuangan</h3>
-            <p>dari perusahaan Indonesia untuk masyarakat Indonesia</p>
-            <br><br>
-            <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>  <a class="btn btn-default btn-lg" href="#" role="button">Apply for Membership</a></p>
-        </div> -->
+            <div class="container text-center">
+                <h2>TENTANG KAMI</h2>
+                <hr width="10%" style="border: 2px solid rgb(255, 255, 255)">
+            </div>
         </div>
     </header>
     <!-- Page Content -->
     <!-- Count   -->
-    <div class="container" id="subtittle">
+    <div class="container" id="subtittle" style="padding: 0;">
       <div class="col-md-8 col-md-offset-2 text-center">
-      <h3><strong>TENTANG KAMI</strong></h3>
-      <hr width="10%" style="border: 2px solid #1BB6AD">
+      <!-- <h3><strong>TENTANG KAMI</strong></h3>
+      <hr width="10%" style="border: 2px solid #1BB6AD"> -->
       <p>AFSI – Asosiasi Fintech Syariah Indonesia diinisiasi pada Oktober 2017 atau Muharram / Safar 1439 di Jakarta. Berdiri sebagai kongregasi startup, institusi, akademisi, komunitas, dan pakar syariah yang bergerak dalam jasa keuangan syariah berbasis teknologi. AFSI telah diakui dan disahkan oleh Kementrian Hukum melalui nomor *input*, dengan keanggotaan saat ini sejumlah *input number* anggota.</p>
       </div>
     </div>
@@ -32,19 +29,22 @@
       <h3><strong>MISI KAMI</strong></h3>
       <hr width="10%" style="border: 2px solid #1BB6AD;">
       <br><br>
-            <!-- <div class="row">
-                <div class="col-md-4"><img src="img/thumb2.jpg" alt="" class="img-circle" style="border: 3px solid #F3F5F9"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Debitis pariatur ea enim illo itaque corporis, eos facere quibusdam ratione excepturi vel beatae ducimus voluptate maxime harum! Voluptatibus quibusdam velit in.</p></div>
-                <div class="col-md-4"><img src="img/thumb2.jpg" alt="" class="img-circle" style="border: 3px solid #F3F5F9"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Facilis at recusandae minima vel itaque similique, fugiat quos, quo dolore beatae ratione quasi suscipit! Error optio, ea consequatur modi labore provident.</p></div>
-                <div class="col-md-4"><img src="img/thumb2.jpg" alt="" class="img-circle" style="border: 3px solid #F3F5F9"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis quae corporis quam illo recusandae praesentium aut nihil ad id. Exercitationem ipsa soluta recusandae sed minus officiis, quod laborum! Quia, nisi.</p></div>
-            </div> -->
-      <ul>
+            <div class="row">
+                <div class="col-md-6"><img src="img/icon1.jpg" alt="" class="img-circle" style="border: 0 solid #F3F5F9"><p>Meningkatkan penetrasi Inklusi Keuangan melalui Fintek Syariah di Indonesia.</p></div>
+                <div class="col-md-6"><img src="img/icon2.jpg" alt="" class="img-circle" style="border: 0 solid #F3F5F9"><p>Memberikan support system kepada Pemerintah dan Institusi Akademis dalam mendorong kemajuan Fintech di Indonesia.</p></div>
+            </div>
+            <div class="row">
+                <div class="col-md-6"><img src="img/icon3.jpg" alt="" class="img-circle" style="border: 0 solid #F3F5F9"><p>Mendorong kepedulian dan edukasi Keuangan Syariah di Indonesia.</p></div>
+                <div class="col-md-6"><img src="img/icon4.jpg" alt="" class="img-circle" style="border: 0 solid #F3F5F9"><p>Menyatukan sinergi dengan lembaga ekonomi syariah, dan teknologi finansial Internasional dalam mengembangkan potensi – potensi fintech syariah.</p></div>
+            </div>
+      <!-- <ul>
         <li>Menjadi solusi bagi umat dalam menghadapi sistem ekonomi ribawi melalui teknologi finansial</li>
         <li>Memperluas inklusi keuangan syariah di Indonesia dan dunia</li>
         <li>Mensinergikan potensi-potensi fintech berbasis syariah di Indonesia</li>
         <li>Memberikan pengaruh terhadap regulator dan dunia akademik dalam mendukung perkembangan ekosistem fintek di Indonesia dan dunia</li>
         <li>Menjadikan Indonesia pusat keuangan syariah berbasis teknologi di dunia</li>
         <li>Menjadi bagian ekosistem fintek syariah dunia yang mengutamakan dan mendorong perkembangan ekonomi syariah</li>
-      </ul>
+      </ul> -->
       </div>
     </div>
     <div class="container-fluid" id="subtittle4">
@@ -129,4 +129,5 @@
         <a class="btn btn-primary btn-lg" href="#" role="button">See Details</a>
         </div>
     </div> -->
-    <?php require('footer.php'); ?>
+    
+<?php require('footer.php'); ?>
