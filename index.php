@@ -15,8 +15,8 @@
               <div class="item active">
                 <img src="img/slider1.jpg" alt="..." style="background-size: cover; max-width: none">
                 <div class="carousel-caption-custom">
-                    <p>Kolaborasi startup, institusi, akademisi,
-                    komunitas, dan pakar praktisi medorong
+                    <h1>Asosiasi Fintech Syariah Indonesia</h1><br>
+                    <p>Kolaborasi startup, institusi, akademisi,komunitas, dan pakar praktisi medorong
                     Teknologi Keuangan Syariah</p>
                 </div>
               </div>
@@ -58,7 +58,7 @@
     <!-- Page Content -->
     <div class="container-fluid" id="subtittle2">
         <div class="col-md-6 text-center">
-            <p style="text-align: justify;">AFSI – Asosiasi Fintech Syariah Indonesia diinisiasi pada Oktober 2017 atau Muharram / Safar 1439 di Jakarta. Berdiri sebagai kongregasi startup, institusi, akademisi, komunitas, dan pakar syariah yang bergerak dalam jasa keuangan syariah berbasis teknologi. AFSI telah diakui dan disahkan oleh Kementrian Hukum melalui nomor *input*, dengan keanggotaan saat ini sejumlah *input number* anggota.</p>
+            <p style="text-align: justify; font-size: 18px;">AFSI – Asosiasi Fintech Syariah Indonesia diinisiasi pada Oktober 2017 atau Muharram / Safar 1439 di Jakarta. Berdiri sebagai kongregasi startup, institusi, akademisi, komunitas, dan pakar syariah yang bergerak dalam jasa keuangan syariah berbasis teknologi. AFSI telah diakui dan disahkan sebagai badan hukum, melalui Surat Keputusan Menteri Hukum dan HAM Republik Indonesia Nomor AHU-0001911.AH.01.07 tahun 2018 tertanggal 14 Februari 2018</p>
         </div>
         <div class="col-md-6 text-center">
             <p><img src="img/logofintechbig.png" alt="" style="text-align: justify; width: 70%; height: 70%;"></p>
