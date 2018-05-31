@@ -30,10 +30,10 @@
       <hr width="10%" style="border: 2px solid #1BB6AD;">
       <br><br>
             <div class="row">
-                <div class="col-md-3"><img src="img/icon1.jpg" alt="" class="img-circle" style="border: 0 solid #F3F5F9"><p>Meningkatkan penetrasi Inklusi Keuangan melalui Fintek Syariah di Indonesia.</p></div>
-                <div class="col-md-3"><img src="img/icon2.jpg" alt="" class="img-circle" style="border: 0 solid #F3F5F9"><p>Memberikan support system kepada Pemerintah dan Institusi Akademis dalam mendorong kemajuan Fintech di Indonesia.</p></div>
-                <div class="col-md-3"><img src="img/icon3.jpg" alt="" class="img-circle" style="border: 0 solid #F3F5F9"><p>Mendorong kepedulian dan edukasi Keuangan Syariah di Indonesia.</p></div>
-                <div class="col-md-3"><img src="img/icon4.jpg" alt="" class="img-circle" style="border: 0 solid #F3F5F9"><p>Menyatukan sinergi dengan lembaga ekonomi syariah, dan teknologi finansial Internasional dalam mengembangkan potensi – potensi fintech syariah.</p></div>
+                <div class="col-md-3"><img src="../img/icon1.jpg" alt="" class="img-circle" style="border: 0 solid #F3F5F9"><p>Meningkatkan penetrasi Inklusi Keuangan melalui Fintek Syariah di Indonesia.</p></div>
+                <div class="col-md-3"><img src="../img/icon2.jpg" alt="" class="img-circle" style="border: 0 solid #F3F5F9"><p>Memberikan support system kepada Pemerintah dan Institusi Akademis dalam mendorong kemajuan Fintech di Indonesia.</p></div>
+                <div class="col-md-3"><img src="../img/icon3.jpg" alt="" class="img-circle" style="border: 0 solid #F3F5F9"><p>Mendorong kepedulian dan edukasi Keuangan Syariah di Indonesia.</p></div>
+                <div class="col-md-3"><img src="../img/icon4.jpg" alt="" class="img-circle" style="border: 0 solid #F3F5F9"><p>Menyatukan sinergi dengan lembaga ekonomi syariah, dan teknologi finansial Internasional dalam mengembangkan potensi – potensi fintech syariah.</p></div>
             </div>
       </div>
     </div>
@@ -63,7 +63,7 @@
         <h3><strong>Dewan Pengurus</strong></h3>
         <br><br>
             <div class="row">
-                <div class="col-md-12">
+                <div class="col-md-10 col-md-offset-1">
                 <div class="col-md-3">
                     <h4><u>Sekretaris Jendral</u></h4><h4>Lutfhi Adhiansyah</h4>
                 </div>
@@ -77,7 +77,32 @@
                     <h4><u>Legal & Compliance</u></h4><h4>Rico Prihatwono</h4>
                 </div>
                 </div>
-            </div>            
+            </div>
+            <br><br><br><br><br>
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="col-md-4">
+                        <h4><u>Wakil Ketua</u></h4><h4>Dima Djani</h4>
+                    </div>
+                    <div class="col-md-4">
+                        <h4><u>Wakil Ketua</u></h4><h4>Rachmat Anggara</h4>
+                    </div>
+                    <div class="col-md-4">
+                        <h4><u>Wakil Ketua</u></h4><h4>Krisna Satria Gunawan</h4>
+                    </div>
+                </div>
+            </div>
+            <br><br><br><br><br>
+            <div class="row">
+                <div class="col-md-8 col-md-offset-2">
+                    <div class="col-md-6">
+                        <h4><u>Wakil Sekretaris</u></h4><h4>Budiman Indrajaya</h4>
+                    </div>
+                    <div class="col-md-6">
+                        <h4><u>Wakil Sekretaris</u></h4><h4>Riki Maulana</h4>
+                    </div>
+                </div>
+            </div>
       </div>
     </div>
 <?php require('footer.php'); ?>

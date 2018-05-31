@@ -5,7 +5,7 @@
                 <div class="col-md-12">
                     <div class="col-md-3">
                         <div class="row">
-                           <p><a class="navbar-brand" href="http://www.fintechsyariah.org"><img src="img/logofintechtrans.png" alt=""></a></p>
+                           <p><a href="http://www.fintechsyariah.org"><img src="../img/logofintechtrans.png" alt=""></a></p>
                         </div>
                         <div class="row">
                            <p>Menara MTH Lantai 10, Jl. MT Haryono Kav. 23, Tebet Timur, Jakarta Selatan.</p>
@@ -20,10 +20,10 @@
                     </div>
                     <div class="col-md-3">
                         <div class="row">
-                            <p><a href="about" target="blank">About</a></p>
-                            <p><a href="news" target="blank">News & Events</a></p>
-                            <p><a href="gallery" target="blank">Gallery</a></p>
-                            <p><a href="membership" target="blank">Membership</a></p>
+                            <p><a href="../menu/about" target="blank">About</a></p>
+                            <p><a href="../menu/news" target="blank">News & Events</a></p>
+                            <p><a href="../menu/gallery" target="blank">Gallery</a></p>
+                            <p><a href="../menu/membership" target="blank">Membership</a></p>
                         </div>
                     </div>
                     <div class="col-md-3">
@@ -47,10 +47,13 @@
     <!-- /.container -->
 
     <!-- jQuery -->
-    <script src="js/jquery.js"></script>
+    <script src="../js/jquery.js"></script>
+
+    <!-- Fancy Box -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.js"></script>
 
     <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
 
 </body>
 

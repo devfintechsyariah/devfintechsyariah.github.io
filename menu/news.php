@@ -170,7 +170,7 @@
         <div class="col-md-12">
             <div class="col-xs-6 col-md-3">
             <div class="thumbnail">
-             <img src="img/thumb2.jpg" alt="">
+             <img src="../img/thumb2.jpg" alt="">
                 <div class="caption">
                 <h3>Thumbnail label</h3>
                 <p style="font-size: 14px; line-height: 1.5;margin: 0 0 10px 0;">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
@@ -180,7 +180,7 @@
             </div>
             <div class="col-xs-6 col-md-3">
             <div class="thumbnail">
-             <img src="img/thumb2.jpg" alt="">
+             <img src="../img/thumb2.jpg" alt="">
                 <div class="caption">
                 <h3>Thumbnail label</h3>
                 <p style="font-size: 14px; line-height: 1.5;margin: 0 0 10px 0;">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
@@ -190,7 +190,7 @@
             </div>
             <div class="col-xs-6 col-md-3">
             <div class="thumbnail">
-             <img src="img/thumb2.jpg" alt="">
+             <img src="../img/thumb2.jpg" alt="">
                 <div class="caption">
                 <h3>Thumbnail label</h3>
                 <p style="font-size: 14px; line-height: 1.5;margin: 0 0 10px 0;">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
@@ -200,7 +200,7 @@
             </div>
             <div class="col-xs-6 col-md-3">
             <div class="thumbnail">
-             <img src="img/thumb2.jpg" alt="">
+             <img src="../img/thumb2.jpg" alt="">
                 <div class="caption">
                 <h3>Thumbnail label</h3>
                 <p style="font-size: 14px; line-height: 1.5;margin: 0 0 10px 0;">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>

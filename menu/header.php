@@ -11,14 +11,17 @@
     <title>Fintech Syariah Indonesia</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link href="css/modern-business.css" rel="stylesheet">
-    <link rel="shortcut icon" href="img/fintechico.png">
+    <link href="../css/modern-business.css" rel="stylesheet">
+    <link rel="shortcut icon" href="../img/fintechico.png">
+
+     <!-- CSS Fancy box -->
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css"/>
 
     <!-- Custom Fonts -->
-    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="../font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Arvo|Karla"
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -47,16 +50,16 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="about">About</a>
+                        <a href="../menu/about">About</a>
                     </li>
                     <li>
-                        <a href="news">News & Event</a>
+                        <a href="../menu/news">News & Event</a>
                     </li>
                     <li>
-                        <a href="gallery">Gallery</a>
+                        <a href="../menu/gallery">Gallery</a>
                     </li>
                      <li>
-                        <a href="membership">Membership</a>
+                        <a href="../menu/membership">Membership</a>
                     </li>
                 </ul>
             </div>
