@@ -11,25 +11,27 @@
     <title>Fintech Syariah Indonesia</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
 
     <!-- Custom CSS -->
-    <link href="../css/modern-business.css" rel="stylesheet">
-    <link rel="shortcut icon" href="../img/fintechico.png">
+    <link rel="stylesheet" href="css/modern-business.css">
+    
+    <!-- Fav Icon -->
+    <link rel="shortcut icon" href="img/fintechico.png">
 
      <!-- CSS Fancy box -->
-     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css"/>
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css">
 
     <!-- Custom Fonts -->
-    <link href="../font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Arvo|Karla"
+    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Arvo|Karla">
+
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-
 </head>
 
 <body>
@@ -50,20 +52,18 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li>
-                        <a href="../menu/about">About</a>
+                        <a href="about">About</a>
                     </li>
                     <li>
-                        <a href="../menu/news">News & Event</a>
+                        <a href="news-events">News & Events</a>
                     </li>
                     <li>
-                        <a href="../menu/gallery">Gallery</a>
+                        <a href="gallery">Gallery</a>
                     </li>
                      <li>
-                        <a href="../menu/membership">Membership</a>
+                        <a href="membership">Membership</a>
                     </li>
                 </ul>
             </div>
-            <!-- /.navbar-collapse -->
         </div>
-        <!-- /.container -->
     </nav>

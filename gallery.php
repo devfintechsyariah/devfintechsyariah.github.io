@@ -13,24 +13,24 @@
     <div class="row">
         <div class="col-md-12">
             <div class="col-md-4">
-            <a data-fancybox="gallery" href="../img/photo/afsimember1.jpeg" class="thumbnail" ><img src="../img/photo/afsimember1.jpeg" ></a>
+            <a data-fancybox="gallery" href="img/photo/afsimember1.jpeg" class="thumbnail" ><img src="img/photo/afsimember1.jpeg" ></a>
             </div>
             <div class="col-md-4">
-            <a data-fancybox="gallery" href="../img/photo/afsimember2.jpeg" class="thumbnail"><img src="../img/photo/afsimember2.jpeg"></a>
+            <a data-fancybox="gallery" href="img/photo/afsimember2.jpeg" class="thumbnail"><img src="img/photo/afsimember2.jpeg"></a>
             </div>
             <div class="col-md-4">
-            <a data-fancybox="gallery" href="../img/photo/afsimember3.jpeg" class="thumbnail"><img src="../img/photo/afsimember3.jpeg"></a>
+            <a data-fancybox="gallery" href="img/photo/afsimember3.jpeg" class="thumbnail"><img src="img/photo/afsimember3.jpeg"></a>
             </div>
         </div>
         <div class="col-md-12">
                 <div class="col-md-4">
-                <a data-fancybox="gallery" href="../img/photo/afsimember1.jpeg" class="thumbnail" ><img src="../img/photo/afsimember1.jpeg" ></a>
+                <a data-fancybox="gallery" href="img/photo/afsimember1.jpeg" class="thumbnail" ><img src="img/photo/afsimember1.jpeg" ></a>
                 </div>
                 <div class="col-md-4">
-                <a data-fancybox="gallery" href="../img/photo/afsimember2.jpeg" class="thumbnail"><img src="../img/photo/afsimember2.jpeg"></a>
+                <a data-fancybox="gallery" href="img/photo/afsimember2.jpeg" class="thumbnail"><img src="img/photo/afsimember2.jpeg"></a>
                 </div>
                 <div class="col-md-4">
-                <a data-fancybox="gallery" href="../img/photo/afsimember3.jpeg" class="thumbnail"><img src="../img/photo/afsimember3.jpeg"></a>
+                <a data-fancybox="gallery" href="img/photo/afsimember3.jpeg" class="thumbnail"><img src="img/photo/afsimember3.jpeg"></a>
                 </div>
             </div>
     </div>
