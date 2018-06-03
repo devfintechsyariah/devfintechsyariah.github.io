@@ -13,12 +13,12 @@
     <!-- Count   -->
     <div class="container-fluid" id="subtittle2">
       <div class="col-md-8 col-md-offset-2 text-center">
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium, neque corrupti quod. Veritatis itaque sapiente impedit omnis culpa quaerat vitae velit eligendi odio doloremque illum corporis blanditiis adipisci, vel modi? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium, neque corrupti quod. Veritatis itaque sapiente impedit omnis culpa quaerat vitae velit eligendi odio doloremque illum corporis blanditiis adipisci,</p>
+      <p>AFSI – Asosiasi Fintech Syariah Indonesia diinisiasi pada Oktober 2017 atau Muharram / Safar 1439 di Jakarta. Berdiri sebagai kongregasi startup, institusi, akademisi, komunitas, dan pakar syariah yang bergerak dalam jasa keuangan syariah berbasis teknologi. AFSI telah diakui dan disahkan sebagai badan hukum, melalui Surat Keputusan Menteri Hukum dan HAM Republik Indonesia Nomor AHU-0001911.AH.01.07 tahun 2018 tertanggal 14 Februari 2018</p>
     <a class="btn btn-primary btn-lg" href="https://docs.google.com/forms/d/e/1FAIpQLSdjgpA5YUTFa_TpURkwuKB4kOYMgDQVJIsrRg1VA55F9zv8FA/viewform" role="button">Apply for Membership</a>
     <br><br><br><br>
     </div>
     </div>
-     <div class="container-fluid" id="subtittle5">
+     <!-- <div class="container-fluid" id="subtittle5">
       <div class="col-md-8 col-md-offset-2 text-center">
       <h3><strong>MANFAAT MENJADI ANGGOTA</strong></h3>
       <hr width="10%" style="border: 2px solid #1BB6AD">
@@ -50,13 +50,13 @@
             </div>
         <p style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium, neque corrupti quod. Veritatis itaque sapiente impedit omnis culpa quaerat vitae velit eligendi odio doloremque illum corporis blanditiis adipisci, vel modi? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad tempore iste dolor veritatis, odit cumque nisi doloribus sed aliquid excepturi blanditiis aut hic harum consequuntur, labore repellat distinctio voluptas nobis.Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
       </div>
-    </div>
-    <div class="container-fluid" id="subtittle2">
+    </div> -->
+    <!-- <div class="container-fluid" id="subtittle2">
       <div class="col-md-8 col-md-offset-2 text-center">
       <h3><strong>TERTARIK BERGABUNG ?</strong></h3>
       <hr width="5%" style="border: 2px solid #1BB6AD">
     <a class="btn btn-primary btn-lg" style="margin-right: 0; padding: 10px 100px;" href="https://docs.google.com/forms/d/e/1FAIpQLSdjgpA5YUTFa_TpURkwuKB4kOYMgDQVJIsrRg1VA55F9zv8FA/viewform" role="button">Apply</a>
     <br><br><br><br>
     </div>
-    </div>
+    </div> -->
 <?php require('footer.php'); ?>
